@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bower": "^1.8.14",
     "grunt": "^1.5.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
