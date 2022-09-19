@@ -4,17 +4,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css/1.css">
-    <link rel="stylesheet" href="css/2.css">
-    <link rel="stylesheet" href="css/3.css">
-    <link rel="stylesheet" href="css/4.css">
-    <link rel="stylesheet" href="css/5.css">
+    <link rel="stylesheet" href="css/app.css">
+
 </head>
 <body>
 
     <section id="screen1">
 
-    <p>Scroll down</p>
+	<div class="test">
+		<h1>Hello Guys</h1>
+	</div>
+
+    <p>Scroll down!</p>
 
     <nav>
         <ul>
@@ -31,8 +32,8 @@
     <section id="screen2"></section>
     <section id="screen3"></section>
 
-
-	<script src="/js/style.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/app.js"></script>
 
 </body>
 </html>
